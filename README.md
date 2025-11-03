@@ -12,12 +12,11 @@ the good stuff is on 👉🏼 [ricdotnet](https://github.com/ricdotnet)
 
 <h3>Tools and items I use daily:</h3>
 
-- Jetbrains (Webstorm, Phpstorm, Intellij, GoLand... depends on which language I'm writing code)
-- Vscode (Work tells me I have to)
+- Jetbrains and Vscode
 - Wezterm, Tmux and NeoVim (Windows Terminal on Windows)
 - Moonlander keyboard
 - Logitech Mx Master 3
-- Macbook Pro 16 2019 (not an m1 sadly) and a Windows PC (It is beefy I promise)
+- Macbook Pro 16 2019 (i9) and a Windows PC (It is beefy I promise)
 - Macbook Pro M4 (for work)
 - Dell and Samsung monitors... connected via a usbc dell docking station to the macs
 - Sony headphones, airpods, soundcore and steelseries... whatever holds the most battery I will use for the day
